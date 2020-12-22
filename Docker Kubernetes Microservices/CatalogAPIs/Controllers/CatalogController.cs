@@ -10,22 +10,17 @@ namespace CatalogAPIs.Controllers
 {
     [Route("api/books")]
     [ApiController]
-    public class ValuesController : ControllerBase
+    public class CatalogController : ControllerBase
     {
         // GET: api/<ValuesController>
         [HttpGet]
-        public IEnumerable<string> Get()
+        [Route("")]
+        public ActionResult<IEnumerable<string>> Get()
         {
             return new string[] { "Harry Potter", "Revolution 2020", "James Bond", "Science Fiction" };
         }
 
-        // GET api/<ValuesController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
-
+      
        
     }
 }

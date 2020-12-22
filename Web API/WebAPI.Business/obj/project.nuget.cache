@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "A6yToKYCjng6LoXuFJLxLUOY/yaT0/a+3CBDa8PPTqBrJhmMP0xAdyskd+LueYsA2EpNnz+rUHUKNmxzQ90o7w==",
+  "dgSpecHash": "PmV5KyQQQ/SXHCDpjTPMFRI89a1xvcjx1f5wpY5rCcQwkWv3pXq8tNC+P+WiIBdu7sEegAJ+C+0zn9UOwku6tw==",
   "success": true,
   "projectFilePath": "C:\\Users\\vaarigupta\\source\\repos\\ASP.NET-Core-Learning\\Web API\\WebAPI.Business\\WebAPI.Business.csproj",
   "expectedPackageFiles": [
@@ -101,7 +101,8 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\vaarigupta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6//cQU9qmQ4c4KBUMFsnlCdcaoAE04EYdBeKJwI5mYQcC4I6vw9/vlxHbf42wjjHe2a84cLTBA95gJvmxfvt4Q==",
+  "dgSpecHash": "pJzYZWtRPNfgjsTLxHmU9XI6uJPP7r6hBc2bXKLph/tLmaH41/CY8lpiRlhreN6nWU6dH8xo20xkXYvuUAinig==",
   "success": true,
   "projectFilePath": "C:\\Users\\vaarigupta\\source\\repos\\ASP.NET-Core-Learning\\Web API\\WebAPI.Shared\\WebAPI.Shared.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\vaarigupta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "N6Wd5c1tc5XPXev75v3wXi8PXNGwnn5klVyePWl0uScdSj0giDuu79uW3JTz6+q3vyBmggmY9uNqSNle6oGsNg==",
+  "dgSpecHash": "JDEslYPsvAH+gHB5gk3Hwi1Nm/DoVEtXha68VyEjBDEhEFt/hcR/5wGLqhEtqhRHsEQ9v8O2kBsKDYQMu6AYcw==",
   "success": true,
   "projectFilePath": "C:\\Users\\vaarigupta\\source\\repos\\ASP.NET-Core-Learning\\Web API\\WebAPI.OcelotAPIGateway\\WebAPI.OcelotAPIGateway.csproj",
   "expectedPackageFiles": [
@@ -15,7 +15,9 @@
     "C:\\Users\\vaarigupta\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\vaarigupta\\.nuget\\packages\\ocelot\\16.0.0\\ocelot.16.0.0.nupkg.sha512",
     "C:\\Users\\vaarigupta\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
-    "C:\\Users\\vaarigupta\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.0\\system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512"
+    "C:\\Users\\vaarigupta\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.0\\system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512",
+    "C:\\Users\\vaarigupta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\vaarigupta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }
