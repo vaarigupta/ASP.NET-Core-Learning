@@ -1,0 +1,30 @@
+C:\Users\vaarigupta\source\repos\Nagarro.BookReading.Infrastructure\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Infrastructure.csprojAssemblyReference.cache
+C:\Users\vaarigupta\source\repos\Nagarro.BookReading.Infrastructure\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\vaarigupta\source\repos\Nagarro.BookReading.Infrastructure\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Infrastructure.AssemblyInfo.cs
+C:\Users\vaarigupta\source\repos\Nagarro.BookReading.Infrastructure\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\vaarigupta\source\repos\Nagarro.BookReading.Infrastructure\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Infrastructure.deps.json
+C:\Users\vaarigupta\source\repos\Nagarro.BookReading.Infrastructure\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Infrastructure.runtimeconfig.json
+C:\Users\vaarigupta\source\repos\Nagarro.BookReading.Infrastructure\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Infrastructure.runtimeconfig.dev.json
+C:\Users\vaarigupta\source\repos\Nagarro.BookReading.Infrastructure\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Infrastructure.dll
+C:\Users\vaarigupta\source\repos\Nagarro.BookReading.Infrastructure\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Infrastructure.pdb
+C:\Users\vaarigupta\source\repos\Nagarro.BookReading.Infrastructure\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Core.dll
+C:\Users\vaarigupta\source\repos\Nagarro.BookReading.Infrastructure\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Core.pdb
+C:\Users\vaarigupta\source\repos\Nagarro.BookReading.Infrastructure\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Infrastructure.csproj.CopyComplete
+C:\Users\vaarigupta\source\repos\Nagarro.BookReading.Infrastructure\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Infrastructure.dll
+C:\Users\vaarigupta\source\repos\Nagarro.BookReading.Infrastructure\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Infrastructure.pdb
+C:\Users\vaarigupta\source\repos\Nagarro.BookReading.Infrastructure\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Infrastructure.genruntimeconfig.cache
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Infrastructure\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Infrastructure.deps.json
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Infrastructure\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Infrastructure.runtimeconfig.json
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Infrastructure\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Infrastructure.runtimeconfig.dev.json
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Infrastructure\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Infrastructure.dll
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Infrastructure\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Infrastructure.pdb
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Infrastructure\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Core.dll
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Infrastructure\bin\Debug\netcoreapp3.1\Nagarro.BookReading.Core.pdb
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Infrastructure\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Infrastructure.csprojAssemblyReference.cache
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Infrastructure\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Infrastructure\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Infrastructure.AssemblyInfo.cs
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Infrastructure\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Infrastructure\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Infrastructure.csproj.CopyComplete
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Infrastructure\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Infrastructure.dll
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Infrastructure\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Infrastructure.pdb
+C:\Users\vaarigupta\source\repos\Assignments\5-ASP.NET Core Assignment - Main\Nagarro.BookReading.Infrastructure\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Infrastructure.genruntimeconfig.cache

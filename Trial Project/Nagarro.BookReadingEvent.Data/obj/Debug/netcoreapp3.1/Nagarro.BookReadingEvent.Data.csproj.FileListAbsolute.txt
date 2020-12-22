@@ -1,0 +1,14 @@
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Data\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Data.AssemblyInfoInputs.cache
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Data\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Data.AssemblyInfo.cs
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Data\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Data.csproj.CoreCompileInputs.cache
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Data\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Data.deps.json
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Data\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Data.dll
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Data\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Data.pdb
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Data\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.EntityDataModel.dll
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Data\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Shared.dll
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Data\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.EntityDataModel.pdb
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Data\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Shared.pdb
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Data\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Data.csprojAssemblyReference.cache
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Data\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Data.csproj.CopyComplete
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Data\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Data.dll
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Data\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Data.pdb

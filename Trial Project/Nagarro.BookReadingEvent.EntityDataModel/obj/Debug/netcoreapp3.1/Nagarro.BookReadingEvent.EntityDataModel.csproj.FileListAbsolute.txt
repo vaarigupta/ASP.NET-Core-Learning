@@ -1,0 +1,12 @@
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.EntityDataModel\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.EntityDataModel.AssemblyInfoInputs.cache
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.EntityDataModel\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.EntityDataModel.AssemblyInfo.cs
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.EntityDataModel\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.EntityDataModel.csproj.CoreCompileInputs.cache
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.EntityDataModel\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.EntityDataModel.deps.json
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.EntityDataModel\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.EntityDataModel.dll
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.EntityDataModel\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.EntityDataModel.pdb
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.EntityDataModel\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Shared.dll
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.EntityDataModel\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Shared.pdb
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.EntityDataModel\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.EntityDataModel.csprojAssemblyReference.cache
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.EntityDataModel\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.EntityDataModel.csproj.CopyComplete
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.EntityDataModel\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.EntityDataModel.dll
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.EntityDataModel\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.EntityDataModel.pdb

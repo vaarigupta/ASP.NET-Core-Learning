@@ -1,0 +1,12 @@
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.BusinessFacades\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.BusinessFacades.csprojAssemblyReference.cache
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.BusinessFacades\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.BusinessFacades.AssemblyInfoInputs.cache
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.BusinessFacades\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.BusinessFacades.AssemblyInfo.cs
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.BusinessFacades\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.BusinessFacades.csproj.CoreCompileInputs.cache
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.BusinessFacades\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.BusinessFacades.deps.json
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.BusinessFacades\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.BusinessFacades.dll
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.BusinessFacades\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.BusinessFacades.pdb
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.BusinessFacades\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Shared.dll
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.BusinessFacades\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Shared.pdb
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.BusinessFacades\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.BusinessFacades.csproj.CopyComplete
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.BusinessFacades\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.BusinessFacades.dll
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.BusinessFacades\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.BusinessFacades.pdb

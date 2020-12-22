@@ -1,0 +1,12 @@
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Shared\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Shared.AssemblyInfoInputs.cache
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Shared\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Shared.AssemblyInfo.cs
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Shared\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Shared.csproj.CoreCompileInputs.cache
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Shared\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Shared.deps.json
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Shared\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Shared.runtimeconfig.json
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Shared\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Shared.runtimeconfig.dev.json
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Shared\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Shared.dll
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Shared\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Shared.pdb
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Shared\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Shared.dll
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Shared\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Shared.pdb
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Shared\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Shared.genruntimeconfig.cache
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Shared\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Shared.csprojAssemblyReference.cache

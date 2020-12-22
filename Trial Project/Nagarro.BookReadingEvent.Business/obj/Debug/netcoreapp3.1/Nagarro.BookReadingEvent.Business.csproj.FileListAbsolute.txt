@@ -1,0 +1,12 @@
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Business\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Business.csprojAssemblyReference.cache
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Business\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Business.AssemblyInfoInputs.cache
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Business\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Business.AssemblyInfo.cs
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Business\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Business.csproj.CoreCompileInputs.cache
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Business\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Business.deps.json
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Business\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Business.dll
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Business\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Business.pdb
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Business\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Shared.dll
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Business\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Shared.pdb
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Business\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Business.csproj.CopyComplete
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Business\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Business.dll
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Business\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Business.pdb

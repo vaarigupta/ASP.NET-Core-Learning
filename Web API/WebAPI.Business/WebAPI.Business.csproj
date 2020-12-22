@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebAPI.Data\WebAPI.Data.csproj" />
+    <ProjectReference Include="..\WebAPI.Shared\WebAPI.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

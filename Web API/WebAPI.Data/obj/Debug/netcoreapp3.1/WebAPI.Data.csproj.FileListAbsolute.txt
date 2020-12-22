@@ -1,0 +1,15 @@
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Data\bin\Debug\netcoreapp3.1\WebAPI.Data.deps.json
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Data\bin\Debug\netcoreapp3.1\WebAPI.Data.runtimeconfig.json
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Data\bin\Debug\netcoreapp3.1\WebAPI.Data.runtimeconfig.dev.json
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Data\bin\Debug\netcoreapp3.1\WebAPI.Data.dll
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Data\bin\Debug\netcoreapp3.1\WebAPI.Data.pdb
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Data\bin\Debug\netcoreapp3.1\WebAPI.Shared.dll
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Data\bin\Debug\netcoreapp3.1\WebAPI.Shared.pdb
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Data\obj\Debug\netcoreapp3.1\WebAPI.Data.csprojAssemblyReference.cache
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Data\obj\Debug\netcoreapp3.1\WebAPI.Data.AssemblyInfoInputs.cache
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Data\obj\Debug\netcoreapp3.1\WebAPI.Data.AssemblyInfo.cs
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Data\obj\Debug\netcoreapp3.1\WebAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Data\obj\Debug\netcoreapp3.1\WebAPI.Data.csproj.CopyComplete
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Data\obj\Debug\netcoreapp3.1\WebAPI.Data.dll
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Data\obj\Debug\netcoreapp3.1\WebAPI.Data.pdb
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Data\obj\Debug\netcoreapp3.1\WebAPI.Data.genruntimeconfig.cache

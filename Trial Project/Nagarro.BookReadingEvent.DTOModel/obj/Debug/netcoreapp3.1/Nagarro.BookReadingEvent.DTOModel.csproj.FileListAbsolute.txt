@@ -1,0 +1,12 @@
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.DTOModel\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.DTOModel.csprojAssemblyReference.cache
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.DTOModel\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.DTOModel.AssemblyInfoInputs.cache
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.DTOModel\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.DTOModel.AssemblyInfo.cs
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.DTOModel\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.DTOModel.csproj.CoreCompileInputs.cache
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.DTOModel\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.DTOModel.deps.json
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.DTOModel\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.DTOModel.dll
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.DTOModel\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.DTOModel.pdb
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.DTOModel\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Shared.dll
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.DTOModel\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Shared.pdb
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.DTOModel\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.DTOModel.csproj.CopyComplete
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.DTOModel\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.DTOModel.dll
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.DTOModel\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.DTOModel.pdb

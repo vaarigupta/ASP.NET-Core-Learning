@@ -1,0 +1,9 @@
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Shared\bin\Debug\netcoreapp3.1\WebAPI.Shared.deps.json
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Shared\bin\Debug\netcoreapp3.1\WebAPI.Shared.dll
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Shared\bin\Debug\netcoreapp3.1\WebAPI.Shared.pdb
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Shared\obj\Debug\netcoreapp3.1\WebAPI.Shared.csprojAssemblyReference.cache
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Shared\obj\Debug\netcoreapp3.1\WebAPI.Shared.AssemblyInfoInputs.cache
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Shared\obj\Debug\netcoreapp3.1\WebAPI.Shared.AssemblyInfo.cs
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Shared\obj\Debug\netcoreapp3.1\WebAPI.Shared.csproj.CoreCompileInputs.cache
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Shared\obj\Debug\netcoreapp3.1\WebAPI.Shared.dll
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Shared\obj\Debug\netcoreapp3.1\WebAPI.Shared.pdb

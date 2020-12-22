@@ -1,0 +1,14 @@
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Business\bin\Debug\netcoreapp3.1\WebAPI.Business.deps.json
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Business\bin\Debug\netcoreapp3.1\WebAPI.Business.dll
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Business\bin\Debug\netcoreapp3.1\WebAPI.Business.pdb
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Business\bin\Debug\netcoreapp3.1\WebAPI.Data.dll
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Business\bin\Debug\netcoreapp3.1\WebAPI.Shared.dll
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Business\bin\Debug\netcoreapp3.1\WebAPI.Data.pdb
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Business\bin\Debug\netcoreapp3.1\WebAPI.Shared.pdb
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Business\obj\Debug\netcoreapp3.1\WebAPI.Business.csprojAssemblyReference.cache
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Business\obj\Debug\netcoreapp3.1\WebAPI.Business.AssemblyInfoInputs.cache
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Business\obj\Debug\netcoreapp3.1\WebAPI.Business.AssemblyInfo.cs
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Business\obj\Debug\netcoreapp3.1\WebAPI.Business.csproj.CoreCompileInputs.cache
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Business\obj\Debug\netcoreapp3.1\WebAPI.Business.csproj.CopyComplete
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Business\obj\Debug\netcoreapp3.1\WebAPI.Business.dll
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Web API\WebAPI.Business\obj\Debug\netcoreapp3.1\WebAPI.Business.pdb

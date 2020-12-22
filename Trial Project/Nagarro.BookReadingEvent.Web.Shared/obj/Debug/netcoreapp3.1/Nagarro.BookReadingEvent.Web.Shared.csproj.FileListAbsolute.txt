@@ -1,0 +1,9 @@
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Web.Shared\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Web.Shared.deps.json
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Web.Shared\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Web.Shared.dll
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Web.Shared\bin\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Web.Shared.pdb
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Web.Shared\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Web.Shared.AssemblyInfoInputs.cache
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Web.Shared\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Web.Shared.AssemblyInfo.cs
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Web.Shared\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Web.Shared.csproj.CoreCompileInputs.cache
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Web.Shared\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Web.Shared.dll
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Web.Shared\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Web.Shared.pdb
+C:\Users\vaarigupta\source\repos\Assignments\ASP.NET Core Assignment\Nagarro.BookReadingEvent.Web.Shared\obj\Debug\netcoreapp3.1\Nagarro.BookReadingEvent.Web.Shared.csprojAssemblyReference.cache
