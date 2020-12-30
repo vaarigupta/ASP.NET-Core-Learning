@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,6 +12,12 @@ namespace BooksAPI.Controllers
     [ApiController]
     public class BookController : ControllerBase
     {
+        //private readonly IConfiguration config;
+
+        //public BookController (IConfiguration config)
+        //{
+        //    this.config = config;
+        //}
 
         // GET: api/<ValuesController>
         [HttpGet]

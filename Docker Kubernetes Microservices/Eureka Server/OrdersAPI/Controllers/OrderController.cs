@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 using OrdersAPI.Model;
 using System;
 using System.Collections.Generic;
@@ -12,6 +13,12 @@ namespace OrdersAPI.Controllers
     [ApiController]
     public class OrderController : ControllerBase
     {
+        //private readonly IConfiguration config;
+
+        //public OrderController(IConfiguration config)
+        //{
+        //    this.config = config;
+        //}
 
         // GET: api/<ValuesController>
         [HttpGet]

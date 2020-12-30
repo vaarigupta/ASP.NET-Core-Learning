@@ -35,7 +35,7 @@ namespace API_Gateway
                 .ConfigureServices(s =>
                 {
                     s.AddOcelot()
-                    //.AddTransientDefinedAggregator<FakeDefinedAggregator>() //for aggregates
+                    .AddTransientDefinedAggregator<FakeDefinedAggregator>() //for aggregates
                     .AddEureka();//.AddPolly();
                 })
                 .Configure(a =>
