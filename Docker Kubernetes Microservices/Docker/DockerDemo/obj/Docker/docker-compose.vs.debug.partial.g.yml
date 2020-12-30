@@ -1,0 +1,24 @@
+version: '3.4'
+
+services:
+  dockerdemo1:
+    image: dockerdemo1:dev
+    container_name: DockerDemo1
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "DockerDemo1"
+    #environment:
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_dockerdemo1$
+    volumes:
+      - C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Docker Kubernetes Microservices\DockerDemo1:/app
+      - C:\Users\vaarigupta\vsdbg\vs2017u5:/remote_debugger:rw
+#$nuget_volume_mapping_dockerdemo1$
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_dockerdemo1$ \"/app/bin/Debug/netcoreapp3.1/DockerDemo1.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true

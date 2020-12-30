@@ -1,0 +1,9 @@
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Docker Kubernetes Microservices\DockerDemo\bin\Debug\netcoreapp3.1\DockerDemo.deps.json
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Docker Kubernetes Microservices\DockerDemo\bin\Debug\netcoreapp3.1\DockerDemo.dll
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Docker Kubernetes Microservices\DockerDemo\bin\Debug\netcoreapp3.1\DockerDemo.pdb
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Docker Kubernetes Microservices\DockerDemo\obj\Debug\netcoreapp3.1\DockerDemo.csprojAssemblyReference.cache
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Docker Kubernetes Microservices\DockerDemo\obj\Debug\netcoreapp3.1\DockerDemo.AssemblyInfoInputs.cache
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Docker Kubernetes Microservices\DockerDemo\obj\Debug\netcoreapp3.1\DockerDemo.AssemblyInfo.cs
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Docker Kubernetes Microservices\DockerDemo\obj\Debug\netcoreapp3.1\DockerDemo.csproj.CoreCompileInputs.cache
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Docker Kubernetes Microservices\DockerDemo\obj\Debug\netcoreapp3.1\DockerDemo.dll
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Docker Kubernetes Microservices\DockerDemo\obj\Debug\netcoreapp3.1\DockerDemo.pdb

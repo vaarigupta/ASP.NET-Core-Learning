@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "stWH2eZztzhm5WdFkPPSD0Y4wbhH8PdmnhmdaPYv9T3vNkhLmw127swW7lwRtvHxS/fLGQhaLNGXyFtnlpW/QQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vaarigupta\\source\\repos\\ASP.NET-Core-Learning\\Docker Kubernetes Microservices\\DockerDemo\\DockerDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vaarigupta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "t2ZvK249ptOHwYTzidF695ZzzP0+BgHV/aNU51LXRZCUqZ+0mPTF4pLvcM5hZ5FNl/dx0knlDeaz7XIFWYLiuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vaarigupta\\source\\repos\\ASP.NET-Core-Learning\\Docker Kubernetes Microservices\\API Gateway Example\\API Gateway Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vaarigupta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\vaarigupta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Docker Kubernetes Microservices\DockerDemo\bin\Debug\DockerDemo1.exe
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Docker Kubernetes Microservices\DockerDemo\bin\Debug\DockerDemo1.dll
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Docker Kubernetes Microservices\DockerDemo\bin\Debug\DockerDemo1.pdb
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Docker Kubernetes Microservices\DockerDemo\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Docker Kubernetes Microservices\DockerDemo\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\vaarigupta\source\repos\ASP.NET-Core-Learning\Docker Kubernetes Microservices\DockerDemo\obj\Debug\docker-compose.dcproj.CopyComplete
